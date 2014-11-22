@@ -1,5 +1,5 @@
 #include "checksum.h"
-//hahaha oooo
+//hahaha oooohehehe
 int checksum(char *message)
 {
 	int c = 0;
